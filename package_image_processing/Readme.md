@@ -69,7 +69,6 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
-![alt text](image.png)
 
 ## Autor (quem hospedou o projeto no Test Pypi)
 TiagoPimenta
